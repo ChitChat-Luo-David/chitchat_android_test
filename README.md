@@ -7,10 +7,10 @@ A shooting game APP
 ## APP requirement
 - A fighter is on the screen, user can touch to move it.
 - A Number is on the start-top side, it can record the amount of ammunition energy (bullet count).
-- A Button is on the center-bottom side, click it to fire!!!.
+- A Button is on the center-bottom side, click it to fire.
  - When fighter is firing:
-  - You need to create a bullet object to shoot out.
-  - Spend the ammunition energy (bullet count) when firing.
+   - You need to create a bullet object to shoot out.
+   - Spend the ammunition energy (bullet count) when firing.
 
 - A ammunition (bullet) type list is on the end-top side, user can click item to change the ammunition (bullet) type.
 - A current ammunition (bullet) type is display on the end-botttom side.
