@@ -23,5 +23,11 @@ A shooting game APP
 ## Demo
 ![alt tag](https://github.com/ChitChat-Luo-David/chitchat_android_test/blob/main/Fighter%20Demo.gif)
 
+## Estimated time
+One week
+
+## Examination and accept
+Please create a reop and upload your project on your Github. 
+
 ## Remark
 If your ability or time is limited, you don't have to do all of the above.
